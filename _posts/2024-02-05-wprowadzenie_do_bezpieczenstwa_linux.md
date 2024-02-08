@@ -15,7 +15,7 @@ W zależności od rodzaju ataku:
 
 # Typowe drogi ataku
 
-Typową drogą ataku jest SSH/konsola w tym scenariuszu atakujący w jakiś sposób wchodzą w posiadanie danych do logowania. Dane do logowania atakujący mogą uzyskać w wyniku ataku bruteforce lub po prostu jakiegoś wycieku danych. Kolejną typową drogą ataku ją wszelkie aplikacje/usługi działające w naszej infrastrukturze.
+Typową drogą ataku jest SSH/konsola w tym scenariuszu atakujący w jakiś sposób wchodzą w posiadanie danych do logowania. Dane do logowania atakujący mogą uzyskać w wyniku ataku bruteforce lub po prostu jakiegoś wycieku danych. Kolejną typową drogą ataku są wszelkie aplikacje/usługi działające w naszej infrastrukturze.
 
 # Skąd się biorą logi:
 
